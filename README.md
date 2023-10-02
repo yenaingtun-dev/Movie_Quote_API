@@ -1,3 +1,3 @@
 # Laravel API With AUTH
 
-### CRUD Funtion API with Laravel 
+CRUD Funtion API with Laravel 
